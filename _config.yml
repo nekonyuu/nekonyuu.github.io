@@ -33,13 +33,13 @@ author: "Jonathan Raffre"
 title: "{ Jonathan Raffre }"
 description: "Blog and website of Jonathan Raffre (alias nekonyuu), babbling about all sorts of techs. Opinions expressed are mine."
 keywords: "jonathan, raffre, nekonyuu, devops, cloud, data"
-favicon: "/img/favicon.ico"
+favicon: "/img/innovation-black.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/innovation.ico"
 
 background-img: "../img/intro-bg.jpg"
 
