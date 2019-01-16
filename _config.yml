@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://nekonyuu.github.io"
+url: "https://jonathan.raff.re"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -151,7 +151,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "https://github.com/nekonyuu.png?size=500"
+timeline-img: "img/web-app/icon-512x512.png"
 
 ###########
 # Contact #
@@ -168,7 +168,7 @@ email: "jonathan@raff.re"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Jonathan is a Technical Architect, using his skillset to have a wide coverage of technical domains SRE, DevOps, Cloud, Backend and Data engineering, including some basics on data science"
-author_blurb_image: "https://github.com/nekonyuu.png?size=500"
+author_blurb_image: "img/web-app/icon-512x512.png"
 
 ##################
 # Social Buttons #
