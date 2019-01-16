@@ -25,6 +25,6 @@
       "type": "image/png"
     }
   ],
-  "start_url": "{{site.url}}{{site.baseurl}}index.html",
+  "start_url": "{{site.url}}{{site.baseurl}}",
   "display": "standalone"
 }
