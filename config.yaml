@@ -1,0 +1,46 @@
+title: Jonathan Raffre
+baseURL: /
+params:
+  description: Ramblings of a Jack of All Trades.
+  header:
+    title: Jonathan Raffre
+    tagline: Ramblings of a Jack of All Trades.
+    # logo_img: images/logo.png
+    background_img: images/header-bg.jpg
+    has_nav: true
+    nav_links:
+      - label: Home
+        url: /
+        style: link
+      - label: About
+        url: /about/
+        style: link
+      - label: Contact
+        url: /contact/
+        style: link
+    has_social: true
+    social_links:
+      - label: Twitter
+        url: 'https://twitter.com/nekonyuu42'
+        style: icon
+        icon_class: fa-twitter
+        new_window: true
+      - label: GitHub
+        url: 'https://github.com/nekonyuu'
+        style: icon
+        icon_class: fa-github
+        new_window: true
+      - label: LinkedIn
+        url: 'https://www.linkedin.com/jonathan.raffre'
+        style: icon
+        icon_class: fa-linkedin
+        new_window: true
+  footer:
+    content: '&copy; All rights reserved.'
+  palette: red
+taxonomies:
+  stub: stub
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
