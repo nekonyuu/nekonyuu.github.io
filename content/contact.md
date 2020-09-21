@@ -2,6 +2,7 @@
 title: Get in Touch
 img_path: images/contact.jpg
 form_id: contactForm
+form_action: https://usebasin.com/f/959d74b2e44f
 form_fields:
   - input_type: text
     name: name
