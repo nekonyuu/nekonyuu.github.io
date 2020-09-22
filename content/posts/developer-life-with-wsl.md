@@ -1,11 +1,11 @@
 +++
-content_img_path = "/images/20200921-surfacebook2.png"
+content_img_path = "/images/20200921-surfacebook2.jpg"
 date = 2020-09-24T22:00:00Z
 draft = true
 excerpt = ""
 layout = "post"
 subtitle = ""
-thumb_img_path = "/images/20200921-surfacebook2.png"
+thumb_img_path = "/images/20200921-surfacebook2.jpg"
 title = "Developer Life with WSL"
 
 +++
