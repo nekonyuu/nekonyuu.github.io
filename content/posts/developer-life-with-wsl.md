@@ -105,6 +105,10 @@ You can start any of your distributions from there, which get you right in the c
 
 Your disks are also available, as you can see when entering WSL, under /mnt, which allows you to freely access files from Windows under Linux.
 
+## Developing under WSL
+
+TODO: VS Code
+
 ## Wrapping up
 
 Now, after following this, you are able to use WSL and work with it nearly as if it was your main OS, while interacting with usual Windows applications !
