@@ -32,7 +32,7 @@ All those moves from Microsoft appealed to my curiosity, so I wanted to see for 
 
 Windows Subsystem for Linux (WSL), in its first version, is simply a form of emulation, a bit like Cygwin but smarter and without rebuild needed. This means _any_ ELF64 binary does run in WSL, without any modification !
 
-![](/images/2020-09-22.png)
+![](/images/2020-09-22.png "Linux binaries from Ubuntu running !")
 
 But "any ELF64 binary" is a bit of an exaggeration : in truth, this does work till you need any system call or kernel feature, like those needed for Docker (cgroups, namespaces, …). This shouldn't scare you, as actually you barely use/need any of those if you're under Linux/MacOS, as we'll see next in my journey to working on Windows with WSL !
 
