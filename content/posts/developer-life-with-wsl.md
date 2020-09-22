@@ -1,6 +1,6 @@
 +++
 content_img_path = "/images/20200921-surfacebook2.jpg"
-date = 2020-09-24T22:00:00Z
+date = 2020-09-21T22:00:00Z
 draft = true
 excerpt = "In January 2019 I prepared myself for the big jump as a freelancer and one of the first questions was \"Which laptop should I buy for my activity ?\", as I'd need one of my own.\n\nI wouldn't have thought I'd go to Windows, at that time."
 layout = "post"
