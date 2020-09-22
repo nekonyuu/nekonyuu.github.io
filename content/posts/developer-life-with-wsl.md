@@ -42,7 +42,7 @@ _If you're curious about how WSL1 works under the hood, you can check out one of
 
 ### WSL2, 100% better
 
-After that, on May 2019, Microsoft announced they were working on a 2nd iteration of WSL, which would use a lightweight VM tightly integrated with Windows and would be soon available to Insiders community. 
+After that, on May 2019, Microsoft announced they were working on a 2nd iteration of WSL, which would use a lightweight VM tightly integrated with Windows and would be soon available to Insiders community.
 
 I've switched to it as soon as it got on the Insiders channels, as I/O performance was announced to be way better, which it was, and made it actually possible to use it for development purpose, or, well, use it like any native Linux !
 
@@ -50,7 +50,7 @@ Now, since May 2020, it's available natively in the May 2020 Update of Windows 1
 
 ## Installing WSL
 
-As WSL currently still defaults to WSL1 for compatibility reasons, you'll have to install WSL and, after installing necessary features for virtualization, set the default version of WSL to 2 if you want to use it. 
+As WSL currently still defaults to WSL1 for compatibility reasons, you'll have to install WSL and, after installing necessary features for virtualization, set the default version of WSL to 2 if you want to use it.
 
 Whichever you choose, the distribution setup stays the same. Let's see then for WSL 2 !
 
@@ -70,7 +70,7 @@ You are now ready to install a Linux distribution.
 
 ## Installing a distro
 
-Microsoft done a pretty nice job at packaging distributions : you've got on the store Ubuntu, Kali, Debian, Alpine, OpenSUSE… which are all one click away ! Just search for WSL in the store, install one, run it from the start menu then you're greeted with an invite asking the username and password you'd like, then it's ready to go.
+Microsoft and editors done a pretty nice job at packaging distributions : you've got on the store Ubuntu, Kali, Debian, Alpine, OpenSUSE… which are all one click away ! Just search for WSL in the store, install one, run it from the start menu then you're greeted with an invite asking the username and password you'd like, then it's ready to go.
 
 In order to get a better shell experience, first, search for Windows Terminal from the store and install it, you'll get near-Linux-like terminal emulator experience :).
 
