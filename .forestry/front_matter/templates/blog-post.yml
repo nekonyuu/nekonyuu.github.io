@@ -26,4 +26,5 @@ fields:
   hidden: true
   default: post
 pages:
+- content/posts/developer-life-with-wsl.md
 - content/posts/welcome.md
