@@ -1,6 +1,6 @@
 +++
 content_img_path = "/images/20200921-surfacebook2.png"
-date = ""
+date = 2020-09-24T22:00:00Z
 draft = true
 excerpt = ""
 layout = "post"
