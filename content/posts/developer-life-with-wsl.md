@@ -6,7 +6,7 @@ excerpt = "In January 2019 I prepared myself for the big jump as a freelancer an
 layout = "post"
 subtitle = ""
 thumb_img_path = "/images/20200921-surfacebook2.jpg"
-title = "Developer Life with WSL"
+title = "Switching to Windows with WSL"
 
 +++
 ## Why did I leave Linux Desktop
@@ -102,3 +102,7 @@ You can start any of your distributions from there, which get you right in the c
       Debian                 Stopped         2
      $ wsl -d Debian
      nk@Asana:/mnt/c/Users/nekon$
+
+## Wrapping up
+
+So that concludes my first
