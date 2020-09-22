@@ -74,7 +74,7 @@ Microsoft done a pretty nice job at packaging distributions : you've got on the 
 
 In order to get a better shell experience, first, search for Windows Terminal from the store and install it, you'll get near-Linux-like terminal emulator experience :).
 
-Now, let's try installing one, for example Debian. Search for it, hit Install, then once it's ready, open your new Windows Terminal and run:
+Now, let's try installing one, for example Debian. Search for it on the Store, hit Install, then once it's ready, open your new Windows Terminal and run:
 
     nekon@ASANA $ debian
     Installing, this may take a few minutes...
