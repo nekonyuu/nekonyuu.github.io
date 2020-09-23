@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/20200921-surfacebook2.jpg"
 date = 2020-09-21T22:00:00Z
-draft = true
 excerpt = "In January 2019 I prepared myself for the big jump as a freelancer and one of the first questions was \"Which laptop should I buy for my activity ?\", as I'd need one of my own.\n\nI wouldn't have thought I'd go to Windows, at that time."
 layout = "post"
 subtitle = ""
@@ -107,6 +106,6 @@ Your disks are also available, as you can see when entering WSL, under /mnt, whi
 
 ## Wrapping up
 
-Using WSL allowed me in the end to check all my requirements, while still having a Linux environment available without having to run an actual virtual machine side-by-side, hence why I'm staying currently with this setup ! And I'm able to [use the NVidia GPU for ML tasks also in WSL](https://developer.nvidia.com/cuda/wsl), without killing my battery.
+Using WSL allowed me in the end to check all my requirements, while still having a Linux environment available on-demand and not too heavy on resources, hence why I'm staying currently with this setup. I'm also able to [use the NVidia GPU for ML tasks also in WSL](https://developer.nvidia.com/cuda/wsl) without killing my battery. 
 
-Now, after following this, you are able to use WSL and work with it nearly as if it was your main OS, while interacting with usual Windows applications !
+I won't say Windows doesn't have quirks, but so far, I'm fine with it being my daily driver since January 2019.
