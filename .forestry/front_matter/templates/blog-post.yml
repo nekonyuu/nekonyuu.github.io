@@ -26,5 +26,6 @@ fields:
   hidden: true
   default: post
 pages:
+- content/posts/consuming-a-kinesis-stream-with-akka-kcl.md
 - content/posts/developer-life-with-wsl.md
 - content/posts/welcome.md
