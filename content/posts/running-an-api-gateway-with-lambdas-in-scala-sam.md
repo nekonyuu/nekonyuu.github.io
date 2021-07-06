@@ -2,7 +2,7 @@
 content_img_path = ""
 date = 2021-07-11T22:00:00Z
 draft = true
-excerpt = "Let's use Scala on serverless APIs"
+excerpt = "Let's see how to implement a Lambda in Scala & test it locally with SAM local server !"
 layout = "post"
 subtitle = ""
 thumb_img_path = ""
