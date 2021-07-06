@@ -28,4 +28,5 @@ fields:
 pages:
 - content/posts/consuming-a-kinesis-stream-with-akka-kcl.md
 - content/posts/developer-life-with-wsl.md
+- content/posts/running-an-api-gateway-with-lambdas-in-scala-sam.md
 - content/posts/welcome.md
