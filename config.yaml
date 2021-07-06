@@ -1,10 +1,10 @@
 title: Jonathan Raffre
 baseURL: /
 params:
-  description: Ramblings of a Jack of All Trades.
+  description: Stuck in IT's time loop.
   header:
     title: Jonathan Raffre
-    tagline: Ramblings of a Jack of All Trades.
+    tagline: Stuck in IT's time loop.
     # logo_img: images/logo.png
     background_img: images/header-bg.jpg
     has_nav: true
