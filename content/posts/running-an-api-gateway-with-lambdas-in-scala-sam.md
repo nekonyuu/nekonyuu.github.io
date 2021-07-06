@@ -2,7 +2,7 @@
 content_img_path = ""
 date = 2021-07-11T22:00:00Z
 draft = true
-excerpt = ""
+excerpt = "Let's use Scala on serverless APIs"
 layout = "post"
 subtitle = ""
 thumb_img_path = ""
