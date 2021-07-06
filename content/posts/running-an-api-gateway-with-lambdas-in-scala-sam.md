@@ -11,6 +11,6 @@ title = "Running an API Gateway with Lambdas in Scala & SAM"
 +++
 ## Why
 
-Because it's cool ? No, actually, because Scala is a pretty good programming language (Eithers, Options, Futures, a strong typing system, compatibility with the Java ecosystem, ...) and using it in Lambdas ought to be a nice combination to push a product to production fast.
+Because it's cool ? No, actually, because Scala is a pretty good programming language (Eithers, Options, Futures, a strong typing system, compatibility with the Java ecosystem, ...) and using it in Lambdas ought to be a nice combination to push a product to production fast while allowing an easy path of migration to long-lived apps if necessary (why would that be necessary will come in another post !).
 
 ## How
