@@ -1,6 +1,6 @@
 +++
 content_img_path = ""
-date = ""
+date = 2021-07-11T22:00:00Z
 draft = true
 excerpt = ""
 layout = "post"
